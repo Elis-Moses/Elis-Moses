@@ -7,9 +7,11 @@ EDUCATION:
 1.Professional Data Science
 Aptech Computer Institute
 04/2024 - Present, Calabar, Nigeria
+
 2.Master’s Degree in Economics
 University of Nigeria
 01/2022 - 04/2024, Nsukka, Nigeria
+
 3.Bachelor’s Degree in Economics with
 Computing
 Regent University College of Science and
